@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(32, 125, 155);
+}
+
+h1, h2 {
+    font-family: 'Englebert', sans-serif;
+}
+
+section {
+    background-color: rgb(245, 245, 166);
+    padding: 15px;
+    font-family: 'Arial', sans-serif;
+}
